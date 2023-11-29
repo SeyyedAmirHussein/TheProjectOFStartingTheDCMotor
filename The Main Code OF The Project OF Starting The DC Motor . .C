@@ -7,14 +7,14 @@
 
 
 
-int ENABLE = 10;                                                                                                                                                        // Basic Definition : Number 10 . :
+int ENABLE = 10;                                                                                                                                                         // Basic Definition : Number 10 . :
 int IN1 = 9;                                                                                                                                                            // Basic Definition : Number 9 . :
 int IN2 = 8;                                                                                                                                                           // Basic Definition : Number 8 . :
 
 
 void setup () {
 
-  pinMode (ENABLE, OUTPUT);                                                                                                                                      // Introducing The OUTPUT Pin .
+  pinMode (ENABLE, OUTPUT);                                                                                                                                       // Introducing The OUTPUT Pin .
   pinMode (IN1, OUTPUT);                                                                                                                                         // Introducing The OUTPUT Pin .
   pinMode (IN2, OUTPUT);                                                                                                                                        // Introducing The OUTPUT Pin .
   
