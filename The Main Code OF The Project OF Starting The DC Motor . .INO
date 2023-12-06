@@ -2,7 +2,7 @@
 
 // In This Program, We Want To Show The DC Motor Launch .
 
-// The Main Code OF The Project OF Starting The DC Motor . .C
+// The Main Code OF The Project OF Starting The DC Motor . .INO
 
 
 
